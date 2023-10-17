@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Vlad 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="left">School21 student, from Moscow🇷🇺</h3>
+<h3 align="left">School21 student, Moscow🇷🇺</h3>
 
 <div id="badges">
   <a href="Telegram">
@@ -9,6 +9,25 @@
   </a>
 </div>
 
+---
+### About me
+- 🌱 I’m currently learning Go, PostgreSQL, Docker, gRPC
+- 🔭 I’m currently working on School21's task Go and pet project (CRUD)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/VY70194)
+
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
+</div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <!--
 Here are some ideas to get you started:
 
