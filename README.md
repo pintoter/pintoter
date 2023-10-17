@@ -1,10 +1,13 @@
-### Hi there 👋
-
-
-**pintoter/pintoter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1 align="center">Hi there, I'm Vlad 
+<h1 align="left">Hi there, I'm Vlad 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">School21 student,  from Russia 🇷🇺</h3>
+
+<h3 align="left">School21 student, from Moscow🇷🇺</h3>
+
+<div id="badges">
+  <a href="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
 <!--
 Here are some ideas to get you started:
