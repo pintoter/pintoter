@@ -3,17 +3,11 @@
 
 <h3 align="left">School21 student, Moscow🇷🇺</h3>
 
-<div id="badges">
-  <a href="Telegram">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"(https://t.me/VY70194) alt="Telegram Badge"/>
-  </a>
-</div>
-
 ---
 ### About me
 - 🌱 I’m currently learning Go, PostgreSQL, Docker, gRPC
-- 🔭 I’m currently working on School21's task Go and pet project (CRUD)
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/VY70194)
+- 🔭 I’m currently working on School21's task Go. Also explore Go in pet project (Books CRUD)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/VY70194)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
