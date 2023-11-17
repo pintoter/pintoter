@@ -5,8 +5,7 @@
 
 ---
 ### About me
-- 🌱 I’m currently learning Go, PostgreSQL, Docker, gRPC
-- 🔭 I’m currently working on School21's task Go. Additionally, I'm working on my pet project in Go language (Books CRUD)
+- 🌱 I’m currently working/learning Go, PostgreSQL, Docker, gRPC, Observability, Kafka and running School21's task (several daily different tasks) written in Go.  
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/VY70194)
 
 ---
