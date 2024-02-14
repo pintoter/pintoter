@@ -1,12 +1,13 @@
-<h1 align="left">Hi there, I'm Vlad 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="left">Hi there</h1>
 <!--
 <h3 align="left">School21 student, Moscow🇷🇺</h3>
 -->
+---
+I'm a Vlad Yurasov, Software Developer, focusing on Go & Microservices.
 
 ---
 ### About me
-- 🌱 I’m currently working/learning Go, PostgreSQL, Docker, gRPC, Observability, Kafka and running School21's task (several daily different tasks) written in Go.  
+- 🌱 I’m currently concentrated on Go, PostgreSQL, Docker, gRPC, Kafka, Observability.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/VY70194)
 
 ---
