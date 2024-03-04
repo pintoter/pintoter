@@ -7,7 +7,9 @@ I'm a Vlad Yurasov, Software Developer, focusing on Go & Microservices.
 ---
 ### About me
 - 🌱 I’m currently concentrated on Go, PostgreSQL, Docker, gRPC, Kafka, Observability.
+<!-- 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/VY70194)
+-->
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
