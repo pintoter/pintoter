@@ -2,7 +2,7 @@
 <!--
 <h3 align="left">School21 student, Moscow🇷🇺</h3>
 -->
-I'm a Vlad Yurasov, Software Developer, focusing on Go & Microservices.
+I'm a Vlad, Software Developer, focusing on Go & Microservices.
 
 ---
 ### About me
